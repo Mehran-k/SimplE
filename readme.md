@@ -13,11 +13,9 @@ This software can be used to reproduce the results in our "SimplE Embedding for 
 
 To run a model `M` on a dataset `D`, do the following steps:
 * `cd` to the directory where `main.py` is
-* Run the following command (note that the command starts after $):
+* Run `python main.py -m M -d D`
 
-    $ python main.py -m M -d D
-
-Examples:
+Examples (commands start after $):
 
     $ python main.py -m SimplE_ignr -d wn18
     $ python main.py -m SimplE_avg -d fb15k
