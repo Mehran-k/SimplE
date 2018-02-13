@@ -31,7 +31,7 @@ As an example, running the `SimplE_ignr` model on `wn18` will save the embedding
 
 ## Learned Embeddings for SimplE
 
-The best embeddings learned for `SimplE_ignr` and `SimplE_avg` on `wn18` and `fb15k` can be downloaded from [this link](https://drive.google.com/file/d/1hpDS34BxNfbr6xGeut5q5nvx8fW98qCe/view?usp=sharing) and [this link](https://drive.google.com/file/d/1fSxdFbSIcS4w4mAHUhKewjmXCcbOGqM7/view?usp=sharing) respectively.
+The best embeddings learned for `SimplE_ignr` and `SimplE_avg` on `wn18` and `fb15k` can be downloaded from [this link](https://drive.google.com/file/d/1fSxdFbSIcS4w4mAHUhKewjmXCcbOGqM7/view?usp=sharing) and [this link](https://drive.google.com/file/d/1hpDS34BxNfbr6xGeut5q5nvx8fW98qCe/view?usp=sharing) respectively.
 
 To use these embeddings, place them in the same folder as `main.py`, load the embeddings and use them.
 
