@@ -48,6 +48,13 @@ Refer to the following publication for details of the models and experiments.
 
 If you use this package for published work, please cite our paper. Below is the BibTex:
 
+    @article{kazemi2018simple,
+      title={SimplE Embedding for Link Prediction in Knowledge Graphs},
+      author={Kazemi, Seyed Mehran and Poole, David},
+      journal={arXiv preprint arXiv:1802.04868},
+      year={2018}
+    }
+
 Contact
 =======
 
