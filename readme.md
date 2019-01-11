@@ -41,7 +41,7 @@ Refer to the following publication for details of the models and experiments.
 
 - [Seyed Mehran Kazemi](http://www.cs.ubc.ca/~smkazemi) and [David Poole](http://www.cs.ubc.ca/~poole)
 
-  [SimplE Embedding for Link Prediction in Knowledge Graphs](http://arxiv.org/abs/1802.04868)
+  [SimplE Embedding for Link Prediction in Knowledge Graphs](https://papers.nips.cc/paper/7682-simple-embedding-for-link-prediction-in-knowledge-graphs)
 
 
 ## Cite SimplE
