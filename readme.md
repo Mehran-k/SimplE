@@ -46,13 +46,24 @@ Refer to the following publication for details of the models and experiments.
 
 ## Cite SimplE
 
-If you use this package for published work, please cite our paper. Below is the BibTex:
+If you use this package for published work, please cite one (or both) of the following:
 
     @inproceedigs{kazemi2018simple,
       title={SimplE Embedding for Link Prediction in Knowledge Graphs},
       author={Kazemi, Seyed Mehran and Poole, David},
       booktitle={Advances in Neural Information Processing Systems},
       year={2018}
+    }
+    
+    @phdthesis{Kazemi_2018, 
+      series={Electronic Theses and Dissertations (ETDs) 2008+}, 
+      title={Representing and learning relations and properties under uncertainty}, 
+      url={https://open.library.ubc.ca/collections/ubctheses/24/items/1.0375812}, 
+      DOI={http://dx.doi.org/10.14288/1.0375812}, 
+      school={University of British Columbia}, 
+      author={Kazemi, Seyed Mehran}, 
+      year={2018}, 
+      collection={Electronic Theses and Dissertations (ETDs) 2008+}
     }
 
 Contact
