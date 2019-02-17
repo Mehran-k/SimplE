@@ -39,9 +39,11 @@ To use these embeddings, place them in the same folder as `main.py`, load the em
 
 Refer to the following publication for details of the models and experiments.
 
-- [Seyed Mehran Kazemi](http://www.cs.ubc.ca/~smkazemi) and [David Poole](http://www.cs.ubc.ca/~poole)
+- [Seyed Mehran Kazemi](https://mehran-k.github.io/) and [David Poole](http://www.cs.ubc.ca/~poole)
 
   [SimplE Embedding for Link Prediction in Knowledge Graphs](https://papers.nips.cc/paper/7682-simple-embedding-for-link-prediction-in-knowledge-graphs)
+  
+  [Representing and learning relations and properties under uncertainty](https://open.library.ubc.ca/collections/ubctheses/24/items/1.0375812)
 
 
 ## Cite SimplE
