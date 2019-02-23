@@ -1,3 +1,7 @@
+NEW
+===
+A much faster version (in PyTorch) is available here: https://github.com/baharefatemi/SimplE
+
 Summary
 =======
 
