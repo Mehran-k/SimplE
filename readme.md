@@ -9,9 +9,9 @@ This software can be used to reproduce the results in our "SimplE Embedding for 
 
 ## Dependencies
 
-* `Python` version 2.7 or higher
-* `Numpy` version 1.13.1 or higher
-* `Tensorflow` version 1.1.0 or higher
+* `Python` version 2.7
+* `Numpy` version 1.13.1
+* `Tensorflow` version 1.1.0
 
 ## Usage
 
